@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-utkarsh" alt="patel-utkarsh" /></a> </p>
 
 
-- 🌱 I’m currently learning **React js**
 
 - 📫 Reach me at **uydl.utkarsh@gmail.com**
 
